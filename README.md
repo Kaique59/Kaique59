@@ -40,7 +40,7 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 <br/>
 
 #### 🧰 Tecnologias e Ferramentas
-<img align="left" alt="XAMPP" title="XAMPP" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/xampp.png"/>
+<img align="left" alt="XAMPP" title="XAMPP" width="35px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/000000/xampp.png"/>
 <img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/php.png"/>
 <img align="left" alt="VS Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/>
