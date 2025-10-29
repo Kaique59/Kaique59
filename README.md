@@ -9,6 +9,13 @@ Tenho 20 anos e sou natural de **São Paulo - SP**.
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade São Judas Tadeu**, e concluí o curso técnico de **Informática para Internet** no **SENAC**.  
 Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analista de Sistemas**, buscando sempre evoluir minhas habilidades e criar soluções que realmente façam a diferença.
 
+<p align="center">
+  📫 Entre em contato comigo:  
+  <a href="mailto:kaique.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-kaique.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 💻 Linguagens e Tecnologias
