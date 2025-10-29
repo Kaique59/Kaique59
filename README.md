@@ -9,23 +9,6 @@ Tenho 20 anos e sou natural de **São Paulo - SP**.
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade São Judas Tadeu**, e concluí o curso técnico de **Informática para Internet** no **SENAC**.  
 Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analista de Sistemas**, buscando sempre evoluir minhas habilidades e criar soluções que realmente façam a diferença.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/kaique-santos-silva-b52128367/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Kaique59">
-        <img 
-            alt="GitHub" 
-            title="Meu GitHub" 
-            src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 💻 Linguagens e Tecnologias
