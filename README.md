@@ -9,6 +9,8 @@ Tenho 20 anos e sou natural de **São Paulo - SP**.
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade São Judas Tadeu**, e concluí o curso técnico de **Informática para Internet** no **SENAC**.  
 Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analista de Sistemas**, buscando sempre evoluir minhas habilidades e criar soluções que realmente façam a diferença.
 
+<br/>
+
 <p align="center">
   <a href="mailto:kaique.santos.silva59@gmail.com">
     <img 
