@@ -1,6 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Kaique;Aspirante+a+Desenvolvedor+Full+Stack;Estudante+de+ADS" alt="Typing SVG" />
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; animation: shine 3s linear infinite;">Kaique</span>
+
+  <style>
+    @keyframes shine {
+      from {background-position: 0%;}
+      to {background-position: 200%;}
+    }
+  </style>
 </h1>
+
 
 **`Aspirante a Desenvolvedor Full Stack | Estudante de ADS`**
 
