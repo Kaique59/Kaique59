@@ -1,12 +1,7 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; animation: shine 3s linear infinite;">Kaique</span>
-
-  <style>
-    @keyframes shine {
-      from {background-position: 0%;}
-      to {background-position: 200%;}
-    }
-  </style>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Kaique
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
