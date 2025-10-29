@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kaique
+# Kaique
 
 **Aspirante a Desenvolvedor Full Stack | Estudante de ADS**
 
@@ -65,5 +65,7 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 <br clear="left"/>
 
 ---
+
+<img src="https://i.gifer.com/XOsX.gif" width="180px" />
 
 💬 **“A tecnologia é o meio pelo qual transformamos ideias em realidade.”**
