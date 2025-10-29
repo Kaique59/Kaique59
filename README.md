@@ -1,4 +1,6 @@
-#  Kaique
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Kaique;Aspirante+a+Desenvolvedor+Full+Stack;Estudante+de+ADS" alt="Typing SVG" />
+</h1>
 
 **`Aspirante a Desenvolvedor Full Stack | Estudante de ADS`**
 
