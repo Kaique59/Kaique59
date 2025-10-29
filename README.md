@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.gifer.com/u1.gif" width="160px" />
+<img src="https://i.gifer.com/XOsX.gif" width="180px" />
 
 
 # 👨🏻‍💻 Kaique Santos
