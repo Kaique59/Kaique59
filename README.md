@@ -10,9 +10,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universid
 Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analista de Sistemas**, buscando sempre evoluir minhas habilidades e criar soluções que realmente façam a diferença.
 
 <p align="center">
-  📫 Entre em contato comigo:  
   <a href="mailto:kaique.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-kaique.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/-kaique.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
   </a>
 </p>
 
