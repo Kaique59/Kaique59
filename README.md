@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://i.imgur.com/6ovDkJt.gif" width="180px" alt="Samurai Pixel Art"/>
+<img src="https://i.gifer.com/fxVE.gif" width="180px" />
+
 
 # 👨🏻‍💻 Kaique Santos
 
