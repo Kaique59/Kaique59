@@ -78,6 +78,11 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 <br clear="left"/>
 
 ---
-<img src="https://i.gifer.com/XOsX.gif" width="180px" />
 
-💬 **“A tecnologia é o meio pelo qual transformamos ideias em realidade.”**
+<p align="center">
+  <img src="https://i.gifer.com/XOsX.gif" width="180px" />
+</p>
+
+<p align="center">
+  💬 <b>“A tecnologia é o meio pelo qual transformamos ideias em realidade.”</b>
+</p>
