@@ -22,47 +22,23 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ### 💻 Linguagens e Tecnologias
 
 #### 🚀 Linguagens
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-</a>
-<a href="https://www.php.net/docs.php" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-</a>
-<a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-</a>
-<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Java" title="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-</a>
-<a href="https://docs.flutter.dev/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Flutter" title="Flutter" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-</a>
+[<img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>](https://www.php.net/docs.php)
+[<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>](https://dev.mysql.com/doc/)
+[<img align="left" alt="Java" title="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>](https://docs.oracle.com/en/java/)
+[<img align="left" alt="Flutter" title="Flutter" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>](https://docs.flutter.dev/)
 
 <br/>
 <br/>
 
 #### 🧰 Tecnologias e Ferramentas
-<a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="XAMPP" title="XAMPP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/xampp.svg"/>
-</a>
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/php.png"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="VS Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</a>
-<a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/>
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-</a>
+[<img align="left" alt="XAMPP" title="XAMPP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/xampp.svg"/>](https://www.apachefriends.org/pt_br/index.html)
+[<img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="35px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/php.png"/>](https://www.phpmyadmin.net/)
+[<img align="left" alt="VS Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)
+[<img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/>](https://netbeans.apache.org/front/main/index.html)
+[<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>](https://www.jetbrains.com/idea/)
 
 <br/>
 <br/>
