@@ -47,11 +47,11 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img align="left" height="180" alt="GitHub Stats"
-    src="https://stats.dooboo.io/api/github-stats?username=Kaique59&theme=tokyonight&show_icons=true&locale=pt-br" />
+  <img align="left" height="180"
+    src="https://github-stats-alpha.vercel.app/api?username=Kaique59&cc=1A1B27&tc=70A5FD&ic=bf91f3" />
 
-  <img align="left" height="180" alt="Top Langs"
-    src="https://stats.dooboo.io/api/top-langs?username=Kaique59&theme=tokyonight&layout=compact" />
+  <img align="left" height="180"
+    src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Kaique59&cc=1A1B27&tc=70A5FD&ic=bf91f3&layout=compact" />
 </p>
 
 <br clear="left"/>
