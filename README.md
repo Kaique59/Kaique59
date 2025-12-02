@@ -56,7 +56,7 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lTRuWArJN1VRK/giphy.gif" width="180px" />
+  <img src="https://i.gifer.com/XOsX.gif" width="180px" />
 </p>
 
 <p align="center">
