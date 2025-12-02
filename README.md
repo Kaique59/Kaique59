@@ -47,7 +47,7 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ### 📊 Estatísticas do GitHub
 
 <p>
-<img align="left" alt="Perfil - Overview" height="200" width="450"
+<img align="left" alt="Perfil - Overview" height="300" width="450"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaique59&theme=tokyonight" />
 
 <img align="left" alt="Top Languages" height="180"
