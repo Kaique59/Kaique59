@@ -27,8 +27,8 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 <br/>
 
 #### 🧰 Tecnologias e Ferramentas
-[<img alt="XAMPP" title="XAMPP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/xampp.svg"/>)
-[<img align="left" alt="phpMyAdmin" title="phpMyAdmin" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpmyadmin/phpmyadmin-original.svg"/>](https://www.phpmyadmin.net/)
+[<img alt="XAMPP" title="XAMPP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/xampp.svg"/>](https://www.apachefriends.org/pt_br/index.html)
+[<img alt="phpMyAdmin" title="phpMyAdmin" width="30px" src="https://img.icons8.com/color/48/000000/php.png"/>](https://www.phpmyadmin.net/)
 [<img align="left" alt="VS Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)
 [<img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/>](https://netbeans.apache.org/front/main/index.html)
 [<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>](https://www.jetbrains.com/idea/)
