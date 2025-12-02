@@ -11,12 +11,6 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 
 <br/>
 
-<p align="center">
-  <a href="mailto:kaique.santos.silva59@gmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-%20kaique.santos.silva59@gmail.com-2f363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### 💻 Linguagens e Tecnologias
