@@ -54,7 +54,6 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
     src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Kaique59&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" />
 </p>
 
-<br clear="left"/>
 
 ---
 
