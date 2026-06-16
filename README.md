@@ -47,23 +47,16 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique59&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
+  <!-- Status Principal e Top Linguagens lado a lado (Corrigidos com .vercel.app) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique59&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Gráfico de atividade semanal (Substituindo o que estava quebrado) -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kaique59&theme=tokyonight&layout=compact" alt="Gráfico de Atividade" />
+  <!-- Streak de Commits -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaique59&theme=tokyonight" alt="Streak de Commits" />
 </div>
 
 <br clear="left"/>
