@@ -48,7 +48,7 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 
 <div align="center">
   <!-- Status Principal e Top Linguagens lado a lado (Corrigidos com .vercel.app) -->
-  <img height="500" src="https://github-readme-stats.vercel.app/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub de Kaique" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique59&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
 </div>
 
