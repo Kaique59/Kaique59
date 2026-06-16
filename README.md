@@ -47,15 +47,15 @@ Meu objetivo é me profissionalizar como **Desenvolvedor Full Stack** e **Analis
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Status Principal e Top Linguagens lado a lado -->
-  <img height="180" src="https://github-readme-stats.vercel.com/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique" />
-  <img height="180" src="https://github-readme-stats.vercel.com/api/top-langs/?username=Kaique59&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
+  <!-- Status Principal e Top Linguagens lado a lado (Corrigidos com .vercel.app) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaique59&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Kaique" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique59&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak de Commits para dar aquele visual de atividade constante -->
+  <!-- Streak de Commits -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaique59&theme=tokyonight" alt="Streak de Commits" />
 </div>
 
